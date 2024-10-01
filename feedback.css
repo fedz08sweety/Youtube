@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(feedback.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  textarea {
+    width: 100%;
+  }
+  
+  .hidden {
+    display: none;
+  }
